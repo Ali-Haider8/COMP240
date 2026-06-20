@@ -1,4 +1,4 @@
-### 🚀 Visual Programming (VB.NET) - COMP40
+### 🚀 Visual Programming (VB.NET) - COMP240
 
 ---
 
@@ -8,8 +8,8 @@
 
 
 ### 👨‍🏫 Instructors
-- [**Asst. Lect. Mohammed Ridha Abed ALzahra Mohammed ALkeebi**](https://staff.uokufa.edu.iq/faculty/detail/mridha.hamoodi/)
-- [**Aseel Faisal Abdulwaheed Alshaibanee**](https://staff.uokufa.edu.iq/faculty/detail/aseelf.alshaibanee/)
+- [**Lect. Mohammed Ridha Abed ALzahra Mohammed ALkeebi**](https://staff.uokufa.edu.iq/faculty/detail/mridha.hamoodi/)
+- [**Asst. Lect. Aseel Faisal Abdulwaheed Alshaibanee**](https://staff.uokufa.edu.iq/faculty/detail/aseelf.alshaibanee/)
 <!--
 > *📅 Learning Start Date — June 2026*
 
