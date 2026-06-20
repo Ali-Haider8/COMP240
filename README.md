@@ -8,8 +8,9 @@
 
 
 ### 👨‍🏫 Instructors
-- [**Lect. Mohammed Ridha Abed ALzahra Mohammed ALkeebi**](https://staff.uokufa.edu.iq/faculty/detail/mridha.hamoodi/)
-- [**Asst. Lect. Aseel Faisal Abdulwaheed Alshaibanee**](https://staff.uokufa.edu.iq/faculty/detail/aseelf.alshaibanee/)
+- [**Dr. Mohammed Ridha Abed ALzahra Mohammed ALkeebi**](https://staff.uokufa.edu.iq/faculty/detail/mridha.hamoodi/)
+- [**Assist. Lec. Aseel Faisal Abdulwaheed Alshaibanee**](https://staff.uokufa.edu.iq/faculty/detail/aseelf.alshaibanee/)
+- [**Assist. Lec. Aseel Faisal Abdulwaheed Alshaibanee**](https://staff.uokufa.edu.iq/faculty/detail/marwaa.alhamdni/)
 <!--
 > *📅 Learning Start Date — June 2026*
 
